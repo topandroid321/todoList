@@ -1,0 +1,14 @@
+{
+  "body": {
+    "content": "ewoidG9kbyI6ICJqc29uIHRvIgp9",
+    "file": false,
+    "fileSize": false
+  },
+  "headers": {
+    "content-type": "application/json",
+    "accept": "application/json"
+  },
+  "method": "POST",
+  "title": "coba",
+  "url": "http://localhost:3002"
+}
